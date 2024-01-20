@@ -1,0 +1,10 @@
+.Login{
+    height: 650px;
+    width: 100%;
+    background: url("https://cdn.pixabay.com/photo/2017/03/25/17/56/color-2174050_1280.png");
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
